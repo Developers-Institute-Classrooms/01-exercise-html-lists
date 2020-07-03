@@ -8,7 +8,6 @@
   - [Challenge Brief](#challenge-brief)
   - [Rationale](#rationale)
   - [Getting Started](#getting-started)
-  - [Development Web Server](#development-web-server)
   - [Challenge Part A - Part A Instructions](#challenge-part-a---part-a-instructions)
   - [Challenge Part B - Part B Instructions](#challenge-part-b---part-b-instructions)
 - [Submit the Challenge](#submit-the-challenge)
@@ -42,20 +41,6 @@
 2. `clone` to your local computer using VS Code or the Terminal.
 3. Read the challenge instructions and get started.
 4. The code for this challenge should go into `/Submission/static/js/script.js`.
-
-## Development Web Server
-
-Run the following commands in your Terminal to start the webserver:
-
-```shell
-# install the server dependencies
-npm install
-
-# start the webserver
-npm start
-```
-
-Once the server starts running it should give you a message and port number. You should be able to send HTTP requests to the webserver now.
 
 ---
 
