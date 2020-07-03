@@ -1,0 +1,27 @@
+{
+  "name": "wdd01-challenge-template",
+  "version": "0.0.1",
+  "description": "Challenge Template.",
+  "main": "./Server/index.js",
+  "scripts": {
+    "test": "node test/feedback.test.js",
+    "start": "node ./Server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Developers-Institute/WDD01-Challenge-Template.git"
+  },
+  "author": "Developers Institute",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Developers-Institute/WDD01-Challenge-Template/issues"
+  },
+  "homepage": "https://github.com/Developers-Institute/WDD01-Challenge-Template#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status-codes": "^1.4.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
