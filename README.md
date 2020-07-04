@@ -1,10 +1,10 @@
-# 01 Challenge - The Sushi Lists HTML Challenge
+# 01 Challenge - 'How to eat Sushi' HTML page with lists
 
 Build an informative website using HTML headings, paragraphs and lists.
 
 **Contents**
 
-- [01 Challenge - The Sushi Lists HTML Challenge](#01-challenge---the-sushi-lists-html-challenge)
+- [01 Challenge - 'How to eat Sushi' HTML page with lists](#01-challenge---how-to-eat-sushi-html-page-with-lists)
   - [Summative Learning Outcomes](#summative-learning-outcomes)
   - [Challenge Brief](#challenge-brief)
   - [Rationale](#rationale)
