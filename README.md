@@ -53,7 +53,7 @@ Search engines and other tools can read HTML, and derive meaning from the HTML t
 
 This challenge involves converting a guide on _How to eat Sushi_ from a Google Document into meaningful HTML. You should have your HTML reference ready, so you know what HTML elements to use when writing your HTML.
 
-1. Open the [Google Document](https://docs.google.com/document/d/1cYypYAKGYEA6Ar4XfUU_TYGYGpAvzHdL5OMw0MJtJzM/edit?usp=sharing) to view the text you will be converting to HTML
+1. Open the [Google Document](https://docs.google.com/document/d/1fPu6E18nfS024AOBzXMofrtbuHatZTwgRSlV2eJq4jY/edit?usp=sharing) to view the text you will be converting to HTML
 2. Investigate the document, and identify the different styles of text that exist. Think about what HTML elements represent the type of content you can see.
 3. In the `Submission` folder, create a new file, `index.html`. You can do this in VS Code, by opening File Explorer, and right-clicking on the `Submission` folder, then choosing `New File`. `index.html` is a very common name for the html page that you want to be considered as your 'home page'.
 4. Open `index.html` by double-clicking it. You should have an empty file.
