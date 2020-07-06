@@ -26,7 +26,7 @@ Build an informative website using HTML headings, paragraphs and lists.
 Take the [Google Document](https://docs.google.com/document/d/1fPu6E18nfS024AOBzXMofrtbuHatZTwgRSlV2eJq4jY/edit?usp=sharing), and convert the text to semantic HTML, so it can be displayed on a website. The document includes headings, paragraphs, ordered and unordered lists.
 
 When you have completed the challenge, you should have a website that looks like this:
-![Website Example](docs/website_example.png)
+![Website Example](docs/challenge-complete.png)
 
 ---
 
