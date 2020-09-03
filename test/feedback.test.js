@@ -20,12 +20,9 @@ const hash = require("./feedback-hash.json").hash;
 // md5 the current feedback file (hopefully updated by students)
 const studentFeedbackHash = md5("./feedback.md");
 
-// if hashes match, the file was not changed
-if (studentFeedbackHash == hash || !studentFeedbackHash) {
-  console.error("Please answer the questions in the feedback file.");
-  process.exit(1);
-} else {
-  console.log("- Feedback file changed.");
-  console.log("Feedback check passed.");
-  process.exit(0);
-}
+test("feedback file should be changed", () => {
+  // if hashes match, the file was not changed
+  const feedbackSubmitted = studentFeedbackHash && studentFeedbackHash != hash;
+
+  expect(feedbackSubmitted).toBe(true);
+});
