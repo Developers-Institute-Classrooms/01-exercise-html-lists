@@ -57,6 +57,12 @@ This exercise involves converting a guide on _How to eat Sushi_ from a Google Do
 8. Now it's time to write your HTML. Copy and paste the text from the [Google Document](https://docs.google.com/document/d/1fPu6E18nfS024AOBzXMofrtbuHatZTwgRSlV2eJq4jY/edit) into your HTML file. Then markup your text using HTML, using appropriate HTML tags to match the content type of the text.
 
    - Use your reference material to make sure you know about `ol`, `ul`, and `li` tags.
+   - In the cases where you use `<strong>`, `<i>`, `<bold>`, `<h1>-<h6>` tags (not `<p>` tags though) provide a reason why you are using it. You can do this by using HTML comments in your code. For example:
+
+     ```html
+     <!-- Use an h1 because this is the main heading for the page -->
+     <h1>My page title</h1>
+     ```
 
 9. Once you have finished, open your website in your browser using Live Server. Check if it looks ok, and then submit your exercise.
 
