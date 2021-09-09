@@ -72,3 +72,9 @@ This exercise involves converting a guide on _How to eat Sushi_ from a Google Do
 
 - [ ] Push your code to GitHub by typing `git push`
 - [ ] "Mark as done" in Google Classroom
+
+# Walkthrough Solution Video
+
+- Please attempt the exercise first prior to watching the following solution videos
+- [Part 1](https://www.loom.com/share/627bc880f9cd424eaea2f6aecbd35447?sharedAppSource=personal_library)
+- [Part 2](https://www.loom.com/share/9e786460b3dc4cadbded065d24ef40a5?sharedAppSource=personal_library)
